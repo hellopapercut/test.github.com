@@ -12,7 +12,7 @@ a:hover{color:#000}
 
 h1{text-indent:-9999em}
 
-body{background:#fff url(http://pic.yupoo.com/bookcircle_v/CLjzSfyc/WflMb.jpg) repeat}::selection{background-color:#c0533f;color:#fff}
+body{background:#fff url(../img/bd_bg.png) repeat}::selection{background-color:#c0533f;color:#fff}
 
 #follow_sns{position:absolute}
 
@@ -54,7 +54,7 @@ body{font-size:12px}
 
 #hd_con,#bd,#ft{width:960px;margin:0 auto;position:relative}
 
-#hd{height:540px;background:url(../img/index/hd_bg.jpg) center no-repeat;background-size:cover;border-bottom:#DDD 1px solid}
+#hd{height:540px;background:url(http://pic.yupoo.com/bookcircle_v/CLjzSfyc/WflMb.jpg) center no-repeat;background-size:cover;border-bottom:#DDD 1px solid}
 
 #hd_con{height:100%;padding-top:40px}
 
